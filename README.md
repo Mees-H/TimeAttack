@@ -12,7 +12,7 @@ Time Attack is a Minecraft mod that challenges players to beat the game within a
 Development will be done based on milestones, building more and more until I am satisfied with my mod.
 
 ### Progress
-- [ ] When starting a world, you die after 5 minutes
+- [x] When starting a world, you die after 5 minutes
 - [ ] Display timer on screen when playing
 - [ ] Menu upon starting world allowing configuration of after how many minutes you die
 - [ ] Adding win conditions (tied to advancements maybe?)
